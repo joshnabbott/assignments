@@ -58,4 +58,4 @@ The following are **optional** but if implemented would make your application mo
 
 ## Delivery
 
-Find instructions for [submitting your homework here](https://github.com/zibasec/assignments#submission).
+Find instructions for [submitting your homework here](https://github.com/joshnabbott/assignments#submission).
