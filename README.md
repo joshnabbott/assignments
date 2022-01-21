@@ -1,6 +1,6 @@
-# ZibaSec Homework Assignments
+# Homework Assignments
 
-This is a central repo with all of our take-home assignments. 
+This is a central repo with most of our take-home assignments. 
 
 ## Instructions
 
@@ -12,7 +12,7 @@ One of your interviews will be with someone who has reviewed and run your code, 
 
 Choose from one of these exercises, and only complete a single exercise. It is recommended that you skim through each README and pick the one that would best showcase the technical work of the job your applying for (yes, part of evaluation is looking at what assignment you chose in relation to the job you are applying for):
 
-* https://github.com/zibasec-recruiting/assignments/tree/master/magic8
+* https://github.com/joshnabbott/assignments/tree/master/magic8
 * https://homework.adhoc.team/fetch/
 * https://homework.adhoc.team/hhbuilder/
 * https://homework.adhoc.team/slcsp/
@@ -38,8 +38,8 @@ Good luck! If you have any questions, please let us know!
 To submit your work:
 
 1. Create a private repository in _your_ GitHub account
-1. Add @juliedavila @vdzs and @shepdelacreme to your repo as collaborators
-1. Email HireMe@zibasec.io to let us know that you're done
+1. Add @joshnabbott to your repo as collaborator
+1. Email josh@area1security.com to let us know that you're done
 
 
 ### Feedback
@@ -54,6 +54,6 @@ If you did the work without any major red-flags (or plagiarism), we'll invite yo
 
 ### FAQ
 
-1. Questions? Email HireMe@zibasec.io. Asking and not-asking questions bear no impact on how we evaluate your submission.
-2. Need an extension? Depending on the cicumstance, that's probably ok. Again, email HireMe@zibasec.io to request an extension.
+1. Questions? Email josh@area1security.com. Asking and not-asking questions bear no impact on how we evaluate your submission.
+2. Need an extension? Depending on the cicumstance, that's probably ok. Again, email josh@area1security.com to request an extension.
 3. How long should I spend on this? No more than 4 hours. Do what you can in 4 hours total of effort. Feel free to submit partially complete assignments but be sure to address the what and why of your shortcoming.
