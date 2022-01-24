@@ -38,7 +38,7 @@ Good luck! If you have any questions, please let us know!
 To submit your work:
 
 1. Create a private repository in _your_ GitHub account
-1. Add @joshnabbott to your repo as collaborator
+1. Add @joshnabbott and @jeremyboles to your repo as collaborator
 1. Email josh@area1security.com to let us know that you're done
 
 
