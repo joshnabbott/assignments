@@ -14,7 +14,7 @@ Choose from one of these exercises, and only complete a single exercise. It is r
 
 * https://github.com/joshnabbott/assignments/tree/master/magic8
 * https://homework.adhoc.team/fetch/
-* https://homework.adhoc.team/hhbuilder/
+~* https://homework.adhoc.team/hhbuilder/~
 * https://homework.adhoc.team/slcsp/
 * https://homework.adhoc.team/noclist/
 
